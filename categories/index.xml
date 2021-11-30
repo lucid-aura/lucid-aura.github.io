@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on lucid-aura&#39;s study blog</title>
-    <link>/categories/</link>
+    <link>http://lucid-aura.github.io/categories/</link>
     <description>Recent content in Categories on lucid-aura&#39;s study blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko-kr</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko-kr</language><atom:link href="http://lucid-aura.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
