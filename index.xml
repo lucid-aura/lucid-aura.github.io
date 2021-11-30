@@ -5,7 +5,15 @@
         <link>/</link>
         <description>Recent content on </description>
         <generator>Hugo -- gohugo.io</generator>
-        <lastBuildDate>Tue, 30 Nov 2021 15:11:14 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 30 Nov 2021 15:40:49 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test2</title>
+        <link>/post/test2/</link>
+        <pubDate>Tue, 30 Nov 2021 15:40:49 +0900</pubDate>
+        
+        <guid>/post/test2/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Test</title>
         <link>/post/test/</link>
         <pubDate>Tue, 30 Nov 2021 15:11:14 +0900</pubDate>
